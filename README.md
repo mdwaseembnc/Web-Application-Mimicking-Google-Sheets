@@ -54,7 +54,7 @@ The following mathematical functions are supported:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vinay-jalluri/Web-Application-Mimicking-Google-Sheets.git
+   git clone https://github.com/mdwaseembnc/Web-Application-Mimicking-Google-Sheets.git
    ```
 
 2. Navigate to the project directory:
@@ -100,4 +100,4 @@ The following mathematical functions are supported:
 
 ## Authors
 
-- Jalluri Achutha Sai Vinay
+- Mohammed Waseem
